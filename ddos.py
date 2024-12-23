@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos mhmd-error")
-print "Author   : تیم هکری عقرب"
+print "Author   : mhmd-error"
 print "github   : https://github.com/mhmd138az"
 print
 ip = raw_input("IP Target : ")
