@@ -3,12 +3,6 @@ import os
 import time
 import socket
 import random
-# رنگ سبز
-GREEN = '\033[92m'
-RESET = '\033[0m'
-
-# تغییر رنگ در متن
-print(f"{GREEN}این متن به رنگ سبز است{RESET}")
 #Code Time
 from datetime import datetime
 now = datetime.now()
